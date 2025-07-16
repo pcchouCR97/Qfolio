@@ -1,0 +1,165 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{dwave_portfolio}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b2f8faa887df619ecedb5f71798f7673}{%
+           family={{D-Wave Systems}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{fullhash}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{fullhashraw}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{bibnamehash}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{authorbibnamehash}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{authornamehash}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{authorfullhash}{b2f8faa887df619ecedb5f71798f7673}
+      \strng{authorfullhashraw}{b2f8faa887df619ecedb5f71798f7673}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-23}
+      \field{title}{Portfolio Optimization using D-Wave}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://github.com/dwave-examples/portfolio-optimization/tree/main
+      \endverb
+      \verb{url}
+      \verb https://github.com/dwave-examples/portfolio-optimization/tree/main
+      \endverb
+    \endentry
+    \entry{qiskit_portfolio}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=87db61cc96169fb76ad6f689c80bb194}{%
+           family={{Qiskit Finance}},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{fullhash}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{fullhashraw}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{bibnamehash}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{authorbibnamehash}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{authornamehash}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{authorfullhash}{87db61cc96169fb76ad6f689c80bb194}
+      \strng{authorfullhashraw}{87db61cc96169fb76ad6f689c80bb194}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-23}
+      \field{title}{Portfolio Optimization - Qiskit Finance}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://qiskit-community.github.io/qiskit-finance/tutorials/01_portfolio_optimization.html
+      \endverb
+      \verb{url}
+      \verb https://qiskit-community.github.io/qiskit-finance/tutorials/01_portfolio_optimization.html
+      \endverb
+    \endentry
+    \entry{Qiskit_Algorithms_API}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b9156e8b2d2452ded4ee86bf947f1cca}{%
+           family={{Qiskit Algorithms Development Team}},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{fullhash}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{fullhashraw}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{bibnamehash}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{authorbibnamehash}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{authornamehash}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{authorfullhash}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \strng{authorfullhashraw}{b9156e8b2d2452ded4ee86bf947f1cca}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-23}
+      \field{title}{Qiskit Algorithms API Reference}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://qiskit-community.github.io/qiskit-algorithms/apidocs/qiskit_algorithms.html#
+      \endverb
+      \verb{url}
+      \verb https://qiskit-community.github.io/qiskit-algorithms/apidocs/qiskit_algorithms.html#
+      \endverb
+    \endentry
+    \entry{Qiskit_Optimization_API}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=48d874f0505f0c07e69eda19ff76cae5}{%
+           family={{Qiskit Optimization Development Team}},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{fullhash}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{fullhashraw}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{bibnamehash}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{authorbibnamehash}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{authornamehash}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{authorfullhash}{48d874f0505f0c07e69eda19ff76cae5}
+      \strng{authorfullhashraw}{48d874f0505f0c07e69eda19ff76cae5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-23}
+      \field{title}{Qiskit Optimization API Reference}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://qiskit-community.github.io/qiskit-optimization/apidocs/qiskit_optimization.html
+      \endverb
+      \verb{url}
+      \verb https://qiskit-community.github.io/qiskit-optimization/apidocs/qiskit_optimization.html
+      \endverb
+    \endentry
+    \entry{Vanguard_VOO}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=21f2ceb6ad3ed93958a9653b63f1c6b3}{%
+           family={{Vanguard}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{fullhash}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{fullhashraw}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{bibnamehash}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{authorbibnamehash}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{authornamehash}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{authorfullhash}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \strng{authorfullhashraw}{21f2ceb6ad3ed93958a9653b63f1c6b3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-23}
+      \field{title}{VOO Vanguard S\&P 500 ETF}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://investor.vanguard.com/investment-products/etfs/profile/voo
+      \endverb
+      \verb{url}
+      \verb https://investor.vanguard.com/investment-products/etfs/profile/voo
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

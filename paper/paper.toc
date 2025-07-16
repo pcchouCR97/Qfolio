@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Methodology}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Hamiltonian formulation}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Binary Encoding}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Solving the model with classic optimizer}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Solving the model with Quantum Approximate Optimization Algorithm (QAOA)}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Discussion}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Benchmark stock \& ETF Selection}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Rebalancing Portfolio for a Given Period}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Bull market - 2023-10-27 to 2024-10-24}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Bear market - 2022-01-03 to 2023-01-05}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Bull Market — 2023-10-27 to 2024-10-24 with Additional Investment}{10}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Bear Market — 2022-01-03 to 2023-01-05 with Additional Investment}{11}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Conclusion}{12}{section.4}%
+\contentsline {section}{\numberline {5}Future Work}{13}{section.5}%
