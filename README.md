@@ -25,12 +25,9 @@ The methodology draws upon:
 
 ## Example
 
-A <div style="text-align: center;">
-    <img src="figures/_VOO_bb_bull_study_post.png" alt="_VOO_bb_bull_study_post" style="width: 1050px; height: auto;">
-    <p style="font-size: 16px; font-style: italic; color: gray; margin-top: 5px;">
-        Return (%) for AAPL, MSFT, AMZN, and VOO versus optimized portfolios from 2023-10-27 to 2024-10-24 (bull market). The optimization used lambda1 = 1000 with an initial $10,000 investment, rebalanced every 21 days without additional contributions.
-    </p>
-</div>
+![Bull market return](https://raw.githubusercontent.com/pcchouCR97/Qfolio/main/paper/figures/_VOO_bb_bull_study_post.png)
+
+*Return (%) for AAPL, MSFT, AMZN, and VOO versus optimized portfolios from 2023-10-27 to 2024-10-24 (bull market). The optimization used lambda1 = 1000 with an initial $10,000 investment, rebalanced every 21 days without additional contributions.*
 
 Full paper link: [full paper](https://github.com/pcchouCR97/Qfolio/blob/main/paper/paper.pdf)
 
