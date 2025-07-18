@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber paper"] 1752626108.84616 "paper.bcf" "paper.bbl" "paper" 1752626326.81051 0
-  "paper.bcf" 1752626326 109275 8defa201bbbba634e18ae94c35f56403 "pdflatex"
+["biber paper"] 1752626108.84616 "paper.bcf" "paper.bbl" "paper" 1752818065.98888 0
+  "paper.bcf" 1752818065 109275 8defa201bbbba634e18ae94c35f56403 "pdflatex"
   "references.bib" 1752625877 2321 3a0140a1a97d893898383b3b969d38ad ""
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1752626324.98173 "c:/Users/berli/OneDrive/CR_Quantum_Computing/Qfolio_Package/paper/paper.tex" "paper.pdf" "paper" 1752626326.81147 0
-  "c:/Users/berli/OneDrive/CR_Quantum_Computing/Qfolio_Package/paper/paper.tex" 1752626324 30574 f4df4e5e8dd4b34d4ecfe0ecb4ae574d ""
+["pdflatex"] 1752818062.96321 "c:/Users/berli/OneDrive/CR_Quantum_Computing/Qfolio_Package/paper/paper.tex" "paper.pdf" "paper" 1752818065.98965 0
+  "c:/Users/berli/OneDrive/CR_Quantum_Computing/Qfolio_Package/paper/paper.tex" 1752818060 30514 4e2bcb5c982f334238980d7f66ada38b ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1742585410 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1742586996 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1742586302 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -149,12 +149,12 @@
   "figures/_VOO_bb_bear_study_post_new_invest.pdf" 1752624654 24088 da07f43acc7b4d2d09dfd0ce7e3120d1 ""
   "figures/_VOO_bb_bull_study_post.pdf" 1752621943 24618 a631e74900f3e53239ce5ac3b1dcf197 ""
   "figures/_VOO_bb_bull_study_post_new_invest.pdf" 1752624734 24684 aa6000f264a44c1955636a66cdb8028c ""
-  "paper.aux" 1752626326 8148 03b2d8c1e1e013f8d3d092b10b4b5e0e "pdflatex"
+  "paper.aux" 1752818065 8148 03b2d8c1e1e013f8d3d092b10b4b5e0e "pdflatex"
   "paper.bbl" 1752626110 9448 39f49756632e34e1c74bbd8a28d95037 "biber paper"
-  "paper.out" 1752626326 3364 5a8e892e04ac91525437cb4b66e49aee "pdflatex"
-  "paper.run.xml" 1752626326 2312 b72f2f8587ad644f1c1b6bcf7f890366 "pdflatex"
-  "paper.tex" 1752626324 30574 f4df4e5e8dd4b34d4ecfe0ecb4ae574d ""
-  "paper.toc" 1752626326 1430 973296ff0f5c74a21ddb41b03ba4041a "pdflatex"
+  "paper.out" 1752818065 3364 5a8e892e04ac91525437cb4b66e49aee "pdflatex"
+  "paper.run.xml" 1752818065 2312 b72f2f8587ad644f1c1b6bcf7f890366 "pdflatex"
+  "paper.tex" 1752818060 30514 4e2bcb5c982f334238980d7f66ada38b ""
+  "paper.toc" 1752818065 1430 973296ff0f5c74a21ddb41b03ba4041a "pdflatex"
   (generated)
   "paper.aux"
   "paper.bcf"
