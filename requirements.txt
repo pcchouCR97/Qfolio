@@ -1,0 +1,57 @@
+# Qfolio Package Requirements
+# Core quantum computing and optimization
+qiskit==1.4.2
+qiskit-aer==0.17.0
+qiskit-algorithms==0.3.1
+qiskit-optimization==0.6.1
+
+# Optimization solvers
+cvxpy==1.7.3
+gurobipy==12.0.3
+PySCIPOpt==5.6.0
+scip==0.1.12
+clarabel==0.11.1
+osqp==1.0.5
+scs==3.2.9
+docplex==2.29.241
+
+# Data and analysis
+pandas==2.2.3
+numpy==2.2.4
+scipy==1.15.2
+scikit-learn==1.7.2
+scikit-image==0.25.2
+
+# Financial data
+yfinance==0.2.66
+exchange_calendars==4.11.1
+pandas_market_calendars==5.1.1
+backtrader==1.9.78.123
+QuantStats==0.0.77
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Performance and parallel computing
+numba==0.62.1
+dask==2025.10.0
+distributed==2025.10.0
+
+# Jupyter and development
+ipython==9.6.0
+ipykernel==7.0.1
+jupyter_client==8.6.3
+
+# Utilities
+requests==2.32.3
+beautifulsoup4==4.13.3
+lxml==4.9.4
+pytz==2025.2
+python-dateutil==2.9.0.post0
+tabulate==0.9.0
+
+# Type checking and validation
+pydantic==2.12.3
+pydantic-extra-types==2.10.6
+typing_extensions==4.15.0

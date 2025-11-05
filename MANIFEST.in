@@ -1,0 +1,25 @@
+# Include important files in the package distribution
+include README.md
+include LICENSE
+include requirements.txt
+include pyproject.toml
+
+# Include data files
+recursive-include qfolio/data *.csv
+recursive-include qfolio/config *.yaml *.json
+
+# Include documentation
+recursive-include docs *.rst *.md *.txt
+
+# Include examples/tutorials
+recursive-include Tutorial *.ipynb *.md
+
+# Exclude unnecessary files
+global-exclude *.py[cod]
+global-exclude __pycache__
+global-exclude *.so
+global-exclude .DS_Store
+prune VOO_testbed_data
+prune quantstats_reports
+prune results
+prune plots
