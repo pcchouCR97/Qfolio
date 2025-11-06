@@ -22,7 +22,7 @@ wheels/
 
 # Virtual Environments
 qfolio_dev/
-Qfolio/
+#Qfolio/
 venv/
 ENV/
 env/
@@ -53,8 +53,6 @@ config_private.py
 # *.parquet
 
 # Results and outputs
-quantstats_reports/
-quantstats_reports_JP/
 logs/
 *.log
 
