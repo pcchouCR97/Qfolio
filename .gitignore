@@ -78,3 +78,6 @@ dmypy.json
 
 # claude
 .claude/
+
+# Test files
+test.py

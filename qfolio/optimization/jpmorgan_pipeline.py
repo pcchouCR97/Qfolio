@@ -142,7 +142,7 @@ def run_jpmorgan_pipeline(
     tickers: list,
     budget: float,
     current_prices: np.ndarray,
-    quantum_solver: str = 'QAOA_shots',
+    quantum_solver: str = 'classical',
     max_community_size: int = 3,
     max_binary_bits: int = 7,
     k: int = 2,

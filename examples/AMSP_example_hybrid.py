@@ -152,7 +152,7 @@ def calculate_sector_concentration(sector_weights):
     return hhi
 
 # 1. --- Configuration ---
-data = load_data(path="SP500_42stocks_baseline_adjusted_close.csv")
+data = load_data(path="examples/example_csv/SP500_42stocks_baseline_adjusted_close_103025.csv.csv")
 
 # Ensure all data columns are numeric, coercing errors
 for col in data.columns:

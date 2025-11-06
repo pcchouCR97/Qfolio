@@ -47,7 +47,7 @@ SIM_START = '2020-07-01'
 SIM_END = '2025-08-01'
 
 # Script configuration
-BASE_SCRIPT = 'AMSP_test_bed_CVAR.py'
+BASE_SCRIPT = 'AMSP_example.py'
 TIMEOUT_MINUTES = 30
 RESULTS_DIR = 'results'
 LOGS_DIR = 'logs'

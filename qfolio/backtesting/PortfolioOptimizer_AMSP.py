@@ -331,15 +331,15 @@ class PortfolioOptimizer():
                 return classical_eigensolver.solve(qp)
                        
             elif self.solver_type == 'QAOA':
-                qaoa_optimizer = COBYLA(maxiter=250)
-                qaoa_sampler = QAOA(sampler=Sampler(), optimizer=qaoa_optimizer, reps=3)
+                qaoa_optimizer = COBYLA(maxiter=100)
+                qaoa_sampler = QAOA(sampler=Sampler(), optimizer=qaoa_optimizer, reps=1)
                 qaoa_res = MinimumEigenOptimizer(qaoa_sampler)
                 print(" --- Solving: Quantum solver (QAOA) --- ")
                 return qaoa_res.solve(qp)
 
             elif self.solver_type == 'SamplerVQE':
-                vqe_optimzer = COBYLA(maxiter=500)
-                vqe_ansatz = TwoLocal(num_assets, "ry", "cz", reps=3, entanglement="full")
+                vqe_optimzer = COBYLA(maxiter=100)
+                vqe_ansatz = TwoLocal(num_assets, "ry", "cz", reps=1, entanglement="full")
                 vqe_sampler = SamplingVQE(sampler=Sampler(), ansatz=vqe_ansatz, optimizer=vqe_optimzer)
                 vqe_res = MinimumEigenOptimizer(vqe_sampler)
                 print(" --- Solving: Quantum solver (SamplerVQE) --- ")

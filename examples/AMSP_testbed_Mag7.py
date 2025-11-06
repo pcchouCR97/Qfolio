@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import pandas_market_calendars as mcal
 from qfolio.data.DataManager import DataManager
 from qfolio.backtesting.AMSP_PortfolioManager_V2 import PortfolioManager
-from data_screener.screener import *
+from qfolio.screeners.sharpe_screener import *
 from qfolio.metrics.RiskMetrics import RiskMetricsCalculator 
 
 # 1. --- Configuration ---
